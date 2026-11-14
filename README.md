@@ -1,9 +1,9 @@
 # Hi, I'm Mohammed Suhail 👋
 
-**Data Engineering & Machine Learning** · Python · based in Jordan 🇯🇴
+🎓 **AI & Data Science student** · Jordan
 
-I build data pipelines and machine-learning models that are tested, reproducible and
-explained clearly, from raw API data to a working forecast you can call over HTTP.
+I'm a student in Artificial Intelligence and Data Science, and I build projects in my field:
+data pipelines, machine-learning models and dashboards, each one tested and documented.
 
 ## 🚀 Featured projects
 
